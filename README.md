@@ -1,8 +1,8 @@
 # LITA_HR_Data_Analysis
 
-![Screenshot (110)](https://github.com/user-attachments/assets/dfba7d3b-2101-4121-8101-8ab9e4b29456)
+![Screenshot (110)](https://github.com/user-attachments/assets/3516cf18-c558-4245-b978-ab4d2458fa70)
 
-![Screenshot (108)](https://github.com/user-attachments/assets/7ef37a0f-08b9-4e9e-8363-9bda39d8318a)
+![Screenshot (108)](https://github.com/user-attachments/assets/dcc3b94f-6288-4c32-b8aa-f7b78d11f444)
 
 
 ### HR Data Analysis Report
@@ -14,7 +14,8 @@ _**Key Metrics:**_
 
 - Total Number of Current Employees: **1,233** ![Screenshot 8](https://github.com/user-attachments/assets/8583f38c-41da-4f4a-805d-5581ce08b761)
 
-- Attrition Rate: **16%** ![Screenshot 3](https://github.com/user-attachments/assets/4f64d481-c5e4-4a30-a6ce-39f3932494d3)
+- Attrition Rate: **16%** ![Screenshot 3](https://github.com/user-attachments/assets/49e59b1d-5cbf-4317-a7ec-7e6b997068b3)
+
 
 - Total Attrition Count: **237** ![Screenshot 9](https://github.com/user-attachments/assets/24d0ef22-8454-4d74-aea5-186b9c9ad61a)
 
@@ -49,25 +50,47 @@ The Sales and R&D departments exhibit the highest attrition rates, with Sales le
 
 Employees from Life Sciences and Medical fields exhibit the highest attrition numbers, indicating possible challenges specific to these areas that may affect retention.
 
-#### Employee Distribution:
-----
-**Age Distribution by Gender:**
-- Under 25: Female: 268, Male: 272
-- Ages 25 - 34: Female: 182, Male: 172
-- Ages 35 - 44: Female: 104, Male: 116
-- Ages 45 - 54: Female: 82, Male: 72
-- Over 55: Fewer numbers for both genders
+**Distribution of Current Employees by Age Band and Gender:**
+
+The bar chart shows the current number of employees divided by age group and gender (female and male). This data reveals insights into the organization’s age and gender distribution.
+
+### Key Findings:
+
+**Main Age Groups:**
+- The largest employee groups are ages  25-34 and 35-44
+- In the 35-44 age group, there are 272 males and 182 females, indicating strong male presence.
+- In the 25-34 age group, there are 268 males and 174 females, also showing significant male representation.
+
+**Older Age Groups (45-54 and Over 55):**
+- The 45-54 age group has 104 males and 116 females, showing a more balanced gender mix but a lower total count compared to younger groups.
+- The Over 55 age group has the fewest employees, with 36 females and 30 males, indicating a smaller workforce close to retirement.
+
+**Youngest Age Group (Under 25):**
+- The Under 25 age group has the least employees, with 20 males and 18 females recorded. This may suggest difficulties in recruiting young women or a preference for hiring slightly older individuals.
   
-![Screenshot 5](https://github.com/user-attachments/assets/599ad388-a340-4f2f-8f84-65574149e2a1)
+**Attrition by Age Group and Gender**
 
-The age distribution of employees shows that the majority are in the younger age brackets, particularly under 25. The gender distribution is relatively balanced across age groups, though males slightly outnumber females in most categories.
+- **Under 25:** Male attrition is slightly higher, with 20 males leaving compared to 18 females.
+  
+- **Ages 25-34:** Attrition is balanced, with 69 males and 43 females leaving.
+
+- **Ages 35-44:** Male attrition is significantly higher, with 37 males leaving compared to just 14 females.
+
+- **Ages 45-54:** Male attrition remains higher, with 16 males leaving compared to 9 females.
+
+- **Over 55:** Overall attrition is lower in this age group, with 8 males and 3 females leaving.
+
+### Implications:
+The focus of employees in the 25-44 age range suggests a younger workforce. Organizations should consider ways to recruit and keep younger women (Under 25) and explore options to retain older employees (45+) through flexible work arrangements or career development programs.
+
+Below are the visualizatios
+
+![Screenshot (120)](https://github.com/user-attachments/assets/1cf28cc1-3d2d-436d-ab6b-7b2215bc6a90)
 
 
 
 
-
-
-
+![Screenshot (121)](https://github.com/user-attachments/assets/4ed7bbf4-db9f-49f4-b592-5949c7db0ce9)
 
 
 
