@@ -9,6 +9,19 @@
 -----
 **Overview:** The HR Data Analysis Tracker for the Incubator Hub, in collaboration with Ladies in Tech Africa, provides key insights into employee demographics, attrition trends, and workforce distribution across various factors. This analysis includes a total of _**1,470**_ employees, with _**1,233**_ currently active.
 
+
+#### Data Analysis
+In the analysis I included some lines of code or queries or even some of the DAX expression Firstly, get your dataset and transform on the power query editor on power BI. Go to column and check the column distribution to know the how many erros. Then remove duplicates, use filters if neccessary. change the data type and promote header by using first row as header.
+
+**Added conditional column for Age band sort**
+= Table.AddColumn(#"Changed Type2", "Age Sort", each if [CF_age band] = "Under 25" 
+
+![Capture 11](https://github.com/user-attachments/assets/44055f80-3376-4ddf-9b0f-45f1aa1fe3d4)
+
+
+![Capture 12](https://github.com/user-attachments/assets/63603570-2190-4f34-a99d-31dc1ff8d1fb)
+
+
 _**Key Metrics:**_
 - Total Number of Employees: **1,470** ![Screenshot 1](https://github.com/user-attachments/assets/d5186ff6-7f04-4e88-805d-555f71d16c9d)
 
@@ -93,10 +106,6 @@ Below are the visualizatios
 ![Screenshot (121)](https://github.com/user-attachments/assets/4ed7bbf4-db9f-49f4-b592-5949c7db0ce9)
 
 
-Added conditional column for Age band sort
-= Table.AddColumn(#"Changed Type2", "Age Sort", each if [CF_age band] = "Under 25" 
-
-![Capture 11](https://github.com/user-attachments/assets/44055f80-3376-4ddf-9b0f-45f1aa1fe3d4)
 
 
 
