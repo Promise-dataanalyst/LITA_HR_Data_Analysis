@@ -11,13 +11,15 @@
 
 
 #### Data Analysis
-In the analysis I included some lines of code or queries or even some of the DAX expression Firstly, get your dataset and transform on the power query editor on power BI. Go to column and check the column distribution to know the how many erros. Then remove duplicates, use filters if neccessary. change the data type and promote header by using first row as header.
+In the analysis I included some lines of code or queries or even some of the DAX expression Firstly, get your dataset and transform on the power query editor on power BI.  Then remove duplicates, use filters if neccessary. change the data type and promote header by using first row as header.
 
 **Added conditional column for Age band sort**
 = Table.AddColumn(#"Changed Type2", "Age Sort", each if [CF_age band] = "Under 25" 
 
 ![Capture 11](https://github.com/user-attachments/assets/44055f80-3376-4ddf-9b0f-45f1aa1fe3d4)
 
+
+Go to column and check the column distribution to know the how many erros.
 
 ![Capture 12](https://github.com/user-attachments/assets/63603570-2190-4f34-a99d-31dc1ff8d1fb)
 
