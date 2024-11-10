@@ -93,9 +93,10 @@ Below are the visualizatios
 ![Screenshot (121)](https://github.com/user-attachments/assets/4ed7bbf4-db9f-49f4-b592-5949c7db0ce9)
 
 
+Added conditional column for Age band sort
+= Table.AddColumn(#"Changed Type2", "Age Sort", each if [CF_age band] = "Under 25" 
 
-
-
+![Capture 11](https://github.com/user-attachments/assets/44055f80-3376-4ddf-9b0f-45f1aa1fe3d4)
 
 
 
