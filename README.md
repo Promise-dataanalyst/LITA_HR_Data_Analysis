@@ -108,7 +108,9 @@ Below are the visualizatios
 ![Screenshot (121)](https://github.com/user-attachments/assets/4ed7bbf4-db9f-49f4-b592-5949c7db0ce9)
 
 
-
+### Conclusion:
+The HR data reveals that male employees have a higher attrition rate compared to female employees. The Sales and R&D departments, along with employees in Life Sciences and Medical fields, experience the highest attrition rates. Most employees are young, particularly under 25, which could impact retention strategies aimed at stabilizing the workforce.
+ You can reach me [Here](https://www.linkedin.com/in/chima-promise/)
 
 
 
